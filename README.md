@@ -8,7 +8,7 @@
 
 ---
 
-# 📖 Overview
+# Overview
 
 **OPPA (Open Protein Pocket Atlas)** is an open-source computational biology platform designed to map binding pocket similarities across the proteome. Instead of comparing whole protein sequences or overall structures, OPPA isolates and compares **binding pockets** — the specific functional sites where drugs and ligands bind.
 
@@ -43,7 +43,7 @@ OPPA asks:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### Pocket-Centric Discovery
 
@@ -71,7 +71,7 @@ Built modularly for extensibility and community contributions.
 
 ---
 
-# ⚙️ How OPPA Works
+# How OPPA Works
 
 OPPA processes data through a streamlined pipeline:
 
@@ -153,7 +153,7 @@ All relationships stored in a graph database.
 
 ---
 
-# 🕸️ Knowledge Graph Schema
+# Knowledge Graph Schema
 
 ### Nodes
 
@@ -171,7 +171,7 @@ All relationships stored in a graph database.
 
 ---
 
-# 🛠️ Architecture & Tech Stack
+# Architecture & Tech Stack
 
 ```
 oppa/
@@ -217,7 +217,7 @@ oppa/
 
 ---
 
-# ❓ Example Research Questions
+# Example Research Questions
 
 With OPPA, researchers can query:
 
@@ -229,7 +229,7 @@ With OPPA, researchers can query:
 
 ---
 
-# 🗺️ Roadmap
+# Roadmap
 
 OPPA is currently in early development.
 
@@ -244,7 +244,7 @@ OPPA is currently in early development.
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 We are building a community-driven research infrastructure.
 We welcome contributions from:
@@ -259,7 +259,7 @@ Contribution guidelines coming soon.
 
 ---
 
-# 📄 License
+# License
 
 Apache License 2.0 (planned)
 
