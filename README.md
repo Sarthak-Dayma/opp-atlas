@@ -253,6 +253,4 @@ Apache License 2.0 (planned)
 **Open Protein Pocket Atlas**
  
 *Exploring functional similarity through protein binding pockets.*
-**Open Protein Pocket Atlas**
 
-*Exploring functional similarity through protein binding pockets.*
