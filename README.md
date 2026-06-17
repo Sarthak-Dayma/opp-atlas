@@ -212,6 +212,9 @@ OPPA is intended as a hypothesis-generation and exploration platform for structu
 
 # Founding Team
 
+* Co-Founder [Sarthak Dayma](https://github.com/Sarthak-Dayma/)
+* Co-Founder [Sairaj Chavan](https://github.com/namesairaj/)
+
 OPPA is an independent interdisciplinary research initiative founded by students and contributors interested in computational biology, structural bioinformatics, and scientific software.
 
 The project is currently developed in the open and welcomes collaboration from researchers, engineers, and students.
